@@ -1,4 +1,4 @@
-Here is the algorithm summary in a format that you can copy and preserve:
+
 
 Algorithm Summary:
 
